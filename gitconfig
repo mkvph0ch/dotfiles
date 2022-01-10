@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = markovastag@vivaldi.net
+	name = Marko Vastag
